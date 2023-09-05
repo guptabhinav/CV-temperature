@@ -12,3 +12,5 @@ gfortran temperature_cv.f90
 ./a.out
 <br>
 TEMP ( output file from PLUMED where velocities of the CVs are written)
+<br>
+You can plot the "cv_temp_test.dat" using first and third colum for running average of temperature
