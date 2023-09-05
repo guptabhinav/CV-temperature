@@ -1,0 +1,13 @@
+6                  !ncv
+0.1               !tau1              
+7500               !kappa1              
+0.03               !tau2
+7500               !kappa2
+0.02                !tau3
+100                !kappa3
+0.05                !tau4
+150                !kappa4
+0.15               !tau5
+10000               !kapp5
+0.05
+5000
